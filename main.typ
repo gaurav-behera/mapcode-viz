@@ -53,4 +53,6 @@ All primitives are _strict_ meaning they do not allow for undefined values (i.e.
 #pagebreak()
 #include "algorithms/integer_partition.typ"
 #pagebreak()
+#include "algorithms/n_queens.typ"
+#pagebreak()
 #include "algorithms/leetcode/P2_add-two-numbers.typ"
